@@ -30,4 +30,4 @@ Dilation:- • Mostly increases the object area.
 
 
 
-![](2022-10-11%20.png)
+![DRAWING CANVAS](https://github.com/alankritamingwal/virtual-paint-/blob/master/2022-10-11.png)
