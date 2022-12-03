@@ -30,4 +30,4 @@ Dilation:- • Mostly increases the object area.
 
 
 
-![](2020-06-24%20(1).png)
+![](2022-10-11%20.png)
