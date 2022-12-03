@@ -29,5 +29,10 @@ Dilation:- • Mostly increases the object area.
 • Finally, draw the points stored in an array on the frames and canvas
 
 
+# MASKING OF OBJECT
 
-![DRAWING CANVAS](https://github.com/alankritamingwal/virtual-paint-/blob/master/2022-10-11.png)
+![MASKING](https://github.com/alankritamingwal/virtual-paint-/blob/master/MASKING.png)
+
+# DRAWING CANVAS USING MASKED OBJECT
+
+![CANVAS](https://github.com/alankritamingwal/virtual-paint-/blob/master/2020-06-24%20(1).png)
